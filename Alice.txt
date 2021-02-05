@@ -1,2 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-This is text on the second line. Even more changes. 
+This is text on the second line. Even more changes. Rebasing example.  
